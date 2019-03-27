@@ -1,0 +1,9 @@
+{
+  "commitish" : "v3.9.7",
+  "iOS" : [
+    {
+      "name" : "ReactiveKit",
+      "hash" : "164df6ffd03957f24d28a2bc05f773cef881d2d90547e1f7736a1159b0fc4393"
+    }
+  ]
+}

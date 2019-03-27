@@ -1,0 +1,9 @@
+{
+  "commitish" : "7.3.0",
+  "iOS" : [
+    {
+      "name" : "Bond",
+      "hash" : "f5343ff7b818e1abe374a58c769a05dc277deff6242ed6f3a09bf265abd0c466"
+    }
+  ]
+}

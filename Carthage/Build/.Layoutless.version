@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.2.1",
+  "iOS" : [
+    {
+      "name" : "Layoutless",
+      "hash" : "c00bcd9bcb7c11ecebf76a01e34e3ae12a193ac5249f422aa5b8c084c7405eca"
+    }
+  ]
+}

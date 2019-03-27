@@ -1,0 +1,11 @@
+framework module Layoutless {
+  umbrella header "Layoutless.h"
+
+  export *
+  module * { export * }
+}
+
+module Layoutless.Swift {
+    header "Layoutless-Swift.h"
+    requires objc
+}
